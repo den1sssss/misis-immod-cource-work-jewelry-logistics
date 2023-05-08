@@ -1,6 +1,6 @@
 from openpyxl import load_workbook
 
-workbook = load_workbook('director_list.xlsx')
+workbook = load_workbook("director_list.xlsx")
 
 sheet = workbook.active
 

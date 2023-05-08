@@ -21,7 +21,7 @@ markers = ["unit", "integration"]
 
 [tool.flake8]
 ignore = [
-    "D203", "E203", "W503", "SCS108",
+    "D203", "E203", "W503", "SCS108", "T201",
     "R502", "R501", "R504", "R503", "PIE781",
     "PIE786", "PIE798", "PIE803", "PIE785",
     "PIE797", "S105", "ECE001", "ANN101", "ANN102", "ANN002", "ANN003"
